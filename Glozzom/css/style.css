@@ -80,6 +80,25 @@
   margin-top: -50px;
 }
 
+#faq .card{
+  border: #444;
+}
+
+#faq a{
+  text-decoration: none;
+  color: white;
+}
+
+#faq .card-body,
+#faq .card-header {
+  background: #333;
+}
+
+#main-footer{
+  background: black;
+  color: white;
+}
+
 @media(max-width: 991px){
   .small-resp{
     margin-bottom: 1rem;
